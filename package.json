@@ -1,0 +1,14 @@
+{
+  "name": "eslint-plugin-bslint",
+  "version": "1.0.0",
+  "description": "Take your coding style to the next level. The 💩 level.",
+  "main": "index.js",
+  "keywords": ["eslint"],
+  "author": [
+    "Danny Fritz <dannyfritz@gmail.com>"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^2.10 || ^3.0"
+  }
+}
